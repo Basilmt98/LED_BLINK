@@ -1,2 +1,0 @@
-# LED_BLINK
-TEST OTA
